@@ -1,0 +1,2 @@
+# gumin
+follow,lead,change
